@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **KARIGAR(MERN App)**
+- 🔭 I’m currently working on **Soul Bound(WEB3 Application)**
 
 - 🌱 I’m currently learning **BlockChain**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://distracted-einstein-72416a.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://frazbhatti.netlify.app/)**
 
 - 📫 How to reach me **Bhattifraz94@gmail.com**
 
